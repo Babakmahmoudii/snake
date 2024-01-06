@@ -69,39 +69,39 @@ void board()
 
 int main()
 {
-    gotoxy(0, 2); // menu Snake Game
+    gotoxy(10, 2); // menu Snake Game
     cout << "*                 *";
-    gotoxy(0, 3);
+    gotoxy(10, 3);
     cout << "*    Snake Game   *";
-    gotoxy(0, 4);
+    gotoxy(10, 4);
     cout << "*                 *";
-    gotoxy(0, 4);
+    gotoxy(10, 4);
     cout << "*                 *";
-    gotoxy(0, 5);
+    gotoxy(10, 5);
     cout << "*                 *";
-    gotoxy(0, 6);
+    gotoxy(10, 6);
     cout << "*                 *";
-    gotoxy(0, 7);
+    gotoxy(10, 7);
     cout << "*                 *";
-    gotoxy(0, 8);
+    gotoxy(10, 8);
     cout << "*                 *";
-    gotoxy(0, 9);
+    gotoxy(10, 9);
     cout << "*                 *";
-    gotoxy(0, 10);
+    gotoxy(10, 10);
     cout << "*                 *";
-    gotoxy(0, 11);
+    gotoxy(10, 11);
     cout << "*                 *";
-    gotoxy(0, 12);
+    gotoxy(10, 12);
     cout << "*    press   b    *";
-    gotoxy(0, 13);
+    gotoxy(10, 13);
     cout << "*  Go Last Game   *";
-    gotoxy(0, 14);
+    gotoxy(10, 14);
     cout << "*                 *";
-    gotoxy(0, 15);
+    gotoxy(10, 15);
     cout << "*  Pess 'Space'   *";
-    gotoxy(0, 16);
+    gotoxy(10, 16);
     cout << "*    To Start     *";
-    gotoxy(0, 17);
+    gotoxy(10, 17);
     cout << "*                 *";
 
     int select = _getch();
